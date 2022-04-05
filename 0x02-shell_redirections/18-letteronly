@@ -1,0 +1,3 @@
+#!/bin/bash
+grep ^[[:alpha:]] >> 18-letteronly
+echo grep ^[[:alpha:]]
