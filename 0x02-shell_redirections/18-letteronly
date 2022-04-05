@@ -1,3 +1,2 @@
 #!/bin/bash
-grep ^[[:alpha:]] >> 18-letteronly
-echo grep ^[[:alpha:]]
+grep ^[[:alpha:]] /etc/ssh/sshd_config
