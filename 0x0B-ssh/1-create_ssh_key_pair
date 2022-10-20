@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Creates a new 3072-byte RSA key pair named holberton.
+ssh-keygen -b 3072 -N betty -f school
